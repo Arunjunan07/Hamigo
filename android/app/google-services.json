@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "713217290140",
+    "project_id": "hamigo-2aa37",
+    "storage_bucket": "hamigo-2aa37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713217290140:android:c86722d06d318887772259",
+        "android_client_info": {
+          "package_name": "com.mycompany.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713217290140-l9lpctgchk0ndodn6dcn4snb32p1e9qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlJCCLYsE133pyCNHvBUHmrDA1nWTwuVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713217290140-l9lpctgchk0ndodn6dcn4snb32p1e9qh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "713217290140-ksiv1kca5tfl6ttnp5k6vr9vcri9ta8n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.food"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
