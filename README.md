@@ -1,7 +1,7 @@
 # Hamigo
 
 <div align="center">
-  <img src="assets/images/hamigo_logo_3_[Recovered]-02.png" alt="Hamigo Logo" width="200"/>
+  <img src="screenshots/hamigo logo 3 [Recovered]-02.png" alt="Hamigo Logo" width="200"/>
 </div>
 
 ---
