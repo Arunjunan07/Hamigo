@@ -1,7 +1,7 @@
 # Hamigo
 
 <div align="center">
-  <img src="../AI/hamigo logo 3 [Recovered]-02.png" alt="Hamigo Logo" width="200"/>
+  <img src="../screenshots/hamigo logo 3 [Recovered]-02.png" alt="Hamigo Logo" width="200"/>
 </div>
 
 ---
@@ -116,16 +116,16 @@ flutter build ios --release
 
 | Screen | Screenshot |
 |--------|------------|
-| Home Page | ![Home Page](../../../hamigo_screenshots/home_page.png) |
-| Login | ![Login](../../../hamigo_screenshots/login.png) |
-| Sign Up | ![Sign Up](../../../hamigo_screenshots/signup.png) |
-| Category Page | ![Category Page](../../../hamigo_screenshots/category_page.png) |
-| Profile Page | ![Profile Page](../../../hamigo_screenshots/profile_page.png) |
-| Address Page | ![Address Page](../../../hamigo_screenshots/address_page.png) |
-| Payment Page | ![Payment Page](../../../hamigo_screenshots/payment_page.png) |
-| Order History | ![Order History](../../../hamigo_screenshots/order_history.png) |
-| Success Page | ![Success Page](../../../hamigo_screenshots/success_page.png) |
-| Confirm Page | ![Confirm Page](../../../hamigo_screenshots/confirm_page.png) |
+| Home Page | ![Home Page](../../../screenshots/home_page.png) |
+| Login | ![Login](../../../screenshots/login.png) |
+| Sign Up | ![Sign Up](../../../screenshots/signup.png) |
+| Category Page | ![Category Page](../../../screenshots/category_page.png) |
+| Profile Page | ![Profile Page](../../../screenshots/profile_page.png) |
+| Address Page | ![Address Page](../../../screenshots/address_page.png) |
+| Payment Page | ![Payment Page](../../../screenshots/payment_page.png) |
+| Order History | ![Order History](../../../screenshots/order_history.png) |
+| Success Page | ![Success Page](../../../screenshots/success_page.png) |
+| Confirm Page | ![Confirm Page](../../../screenshots/confirm_page.png) |
 
 ## Contributing
 
